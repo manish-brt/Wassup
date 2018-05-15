@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "726401662400",
+    "firebase_url": "https://wassup-9d63b.firebaseio.com",
+    "project_id": "wassup-9d63b",
+    "storage_bucket": "wassup-9d63b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726401662400:android:93c56d4ac7e79e64",
+        "android_client_info": {
+          "package_name": "com.example.manish.wassup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726401662400-dk9sv5f1i1dalb79g3v7ftkq3vpobl3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manish.wassup",
+            "certificate_hash": "a16a1794267991e9100f6f029ca72fa328b130de"
+          }
+        },
+        {
+          "client_id": "726401662400-5u5upajpiqds8nt8l43mu9bkb7aonj8v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcBrbT1SBZK11wbtVdHeap7Qa0Hp4IaUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726401662400-5u5upajpiqds8nt8l43mu9bkb7aonj8v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
